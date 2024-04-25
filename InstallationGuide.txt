@@ -25,3 +25,4 @@ ShipLoot					| 	1.1.0	| Vous donne la valeur réelle de l'ensemble des items dan
 Skinwalkers					|	5.0.0	| Pas sûre que ce soit réellement votre ami qui vous parle
 Helmet_Cameras				|	2.1.5	| Vous avez la POV des joueurs depuis le vaisseau
 YippeeMod					|	1.2.4	| Yippee !
+LateCompany					|	1.0.13	| Pour rejoindre in-game
