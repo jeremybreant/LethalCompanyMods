@@ -1,20 +1,20 @@
+* Vous ne savez pas comment trouvez vos fichiers de jeu ? c'est via steam. Un screen dans le dossier est là pour vous aider.
+
 1- NETOYER VOS FICHIERS
 	a- Fermer le jeu. Supprimer l'ensemble des fichiers liés à une configuration de mod précédente (dossier "BepInEx" et les fichier "winhttp.dll"  et "doorstop_config.ini")*
 
 2- INSTALLER BEPINEX
-	a- Utiliser le dossier "1-BepInEx" pour installer BepInEx. Pour cela copier le contenu du dossier dans le dossier du jeu*. (dossier où se trouve "Lethal Company.exe")*
+	a- Utiliser le dossier "1-BepInEx" pour installer BepInEx. Pour cela copier le contenu du dossier dans les fichiers du jeu*. (dossier où se trouve "Lethal Company.exe")*
 	b- Lancer le jeu. Attender de devoir choisir si vous jouer en ligne ou LAN pour fermer le jeu.
-	c- Si BepInEx a bien été installé vous trouverez dans les fichiers du jeu dans le dossier BepInEx un fichier se nommant "LogOutput.log". Si il est présent vous pouvez passer à la suite.
+	c- Si BepInEx a bien été installé vous trouverez dans les fichiers du jeu, dans le dossier BepInEx un fichier se nommant "LogOutput.log". Si il est présent vous pouvez passer à la suite.
 	
 3- INSTALLER LE MODPACK
-	a- Ouvrer le dossier "2- ModPack" et glisser alors lecontenu dans le dossier "BepInEx" dans le dossier du jeu.
+	a- Ouvrer le dossier "2- ModPack" et glisser alors lecontenu dans le dossier "BepInEx" dans les fichiers du jeu.
 	Cette action fusionnera le contenu du dossier "BepInEx" existant avec celui contenant l'ensemlbe des mods et de leur configuration. 
-	b- Si un message de windows vous dit qu'un des fichier est déjà présent cliquer sur "Ignorer le fichier")
+	b- Si un message de windows vous dit qu'un des fichier est déjà présent, cliquer sur "Ignorer le fichier")
 
 4- FIN
 Vous pouvez lancer le jeu et vous aurez l'ensemble des mods.
-
-* Vous ne savez pas comment trouvez vos fichiers de jeu ? c'est via steam. Un screen dans le dossier est là pour vous aider.
 
 ----------------- Configuration de base -------------------
 BepInEx						| 	5.4.22	| Base pour pouvoir installer des mods
@@ -25,3 +25,6 @@ ShipLoot					| 	1.1.0	| Vous donne la valeur réelle de l'ensemble des items dan
 Skinwalkers					|	5.0.0	| Pas sûre que ce soit réellement votre ami qui vous parle
 Helmet_Cameras				|	2.1.5	| Vous avez la POV des joueurs depuis le vaisseau
 YippeeMod					|	1.2.4	| Yippee !
+AlwaysHearActiveWalkies     |	1.4.5	| Même au sol
+HealthMetrics				|	1.0.2	| Mieux connaitre son nombre d'HP
+LateCompany					|	1.0.13	| Permet de rejoindre une partie en pleine mission
