@@ -1,10 +1,11 @@
 * Vous ne savez pas comment trouvez vos fichiers de jeu ? c'est via steam. Un screen dans le dossier est là pour vous aider.
+** Vous n'avez pas un pc sous windows 64bit ? Avec le lien suiva&nt télécharger la version qu'il vous faut.
 
 1- NETOYER VOS FICHIERS
 	a- Fermer le jeu. Supprimer l'ensemble des fichiers liés à une configuration de mod précédente (dossier "BepInEx" et les fichier "winhttp.dll"  et "doorstop_config.ini")*
 
 2- INSTALLER BEPINEX
-	a- Utiliser le dossier "1-BepInEx" pour installer BepInEx. Pour cela copier le contenu du dossier dans les fichiers du jeu*. (dossier où se trouve "Lethal Company.exe")*
+	a- Utiliser le dossier "1-BepInEx" pour installer BepInEx**. Pour cela copier le contenu du dossier dans les fichiers du jeu*. (dossier où se trouve "Lethal Company.exe")*
 	b- Lancer le jeu. Attender de devoir choisir si vous jouer en ligne ou LAN pour fermer le jeu.
 	c- Si BepInEx a bien été installé vous trouverez dans les fichiers du jeu, dans le dossier BepInEx un fichier se nommant "LogOutput.log". Si il est présent vous pouvez passer à la suite.
 	
