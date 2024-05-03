@@ -1,5 +1,5 @@
 * Vous ne savez pas comment trouvez vos fichiers de jeu ? c'est via steam. Un screen dans le dossier est là pour vous aider.
-** Vous n'avez pas un pc sous windows 64bit ? Avec le lien suiva&nt télécharger la version qu'il vous faut.
+** Vous n'avez pas un pc sous windows 64bit ? Avec le lien suiva&nt télécharger la version qu'il vous faut. https://github.com/BepInEx/BepInEx/releases
 
 1- NETOYER VOS FICHIERS
 	a- Fermer le jeu. Supprimer l'ensemble des fichiers liés à une configuration de mod précédente (dossier "BepInEx" et les fichier "winhttp.dll"  et "doorstop_config.ini")*
