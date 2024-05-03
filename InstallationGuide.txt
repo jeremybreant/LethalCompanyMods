@@ -18,7 +18,7 @@
 Vous pouvez lancer le jeu et vous aurez l'ensemble des mods.
 
 ----------------- Configuration de base -------------------
-BepInEx						| 	5.4.22	| Base pour pouvoir installer des mods
+BepInEx						| 	5.4.23	| Base pour pouvoir installer des mods
 MoreCompany					|	1.9.1	| Pour jouer à plus de 4
 HDLethalCompany				|	1.5.6	| Amélioration des graphismes
 LetMeLookDown				|	1.0.1	| Permet de baisser plus la tête
